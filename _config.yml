@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Florentin-Cristian Beltechi
-title: C/C++ Software Developer ![CES](images/ces.jpg "CES")
+title: C/C++ Software Developer at Continental Engineering Services
 
 email: florentinbeltechi@gmail.com
 website: https://github.com/solidgriever
@@ -50,7 +50,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Florentin and I'm an awsome embedded developer.
-
+  
   I am most skilled in: <mark>Embedded C</mark> and <mark>Embedded C++</mark>
 
 content:
