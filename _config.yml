@@ -15,25 +15,25 @@ website: https://github.com/solidgriever
 darkmode: false
 
 # Social links
-twitter_username: facespics
+twitter_username: solidgriever
 github_username:  solidgriever
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+# instagram_username: jameswgrant
 linkedin_username: https://www.linkedin.com/in/beltechi-florentin-cristian-1b393858/
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: CES 
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://conti-engineering.com/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -103,11 +103,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in  software engineering some of my other interests and hobbies are:
+      - Hiking 
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Language learning
+      - Travel
 
       Look at this cool image  
       ![Trees](images/landscape-trees.jpg "Trees")
